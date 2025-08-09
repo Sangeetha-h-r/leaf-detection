@@ -1,0 +1,2 @@
+0 healthy leaf
+1 disease leaf
